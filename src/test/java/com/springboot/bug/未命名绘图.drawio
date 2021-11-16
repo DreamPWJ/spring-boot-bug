@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T08:48:18.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="L3SZZj57A_9TWIt7DtZl" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T08:53:13.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="t_uSOQtkInSCZBMmzX1H" version="15.7.4" type="github">
   <diagram id="Ii7Qvp2UMPxbZerNqTWp" name="Page-1">
     <mxGraphModel dx="3262" dy="1514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#E6E6E6" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="F0fI_rU61IQj3vAh3Y80-19" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=24;strokeColor=#d6b656;strokeWidth=2;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="566" width="160" height="960" as="geometry" />
         </mxCell>
-        <mxCell id="F0fI_rU61IQj3vAh3Y80-20" value="监控运维" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=24;fontColor=#ffffff;strokeColor=#6F0000;strokeWidth=2;fillColor=#a20025;" vertex="1" parent="1">
+        <mxCell id="F0fI_rU61IQj3vAh3Y80-20" value="&lt;font color=&quot;#ffffff&quot;&gt;监控运维&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=24;strokeColor=#36393d;strokeWidth=2;fillColor=#cce5ff;" vertex="1" parent="1">
           <mxGeometry x="587" y="49" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F0fI_rU61IQj3vAh3Y80-21" value="&lt;font color=&quot;#ffffff&quot;&gt;业主APP&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=24;fontColor=#000000;strokeColor=default;strokeWidth=2;fillColor=#FF8000;" vertex="1" parent="1">
@@ -101,13 +101,13 @@
           <mxGeometry x="-121" y="160" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F0fI_rU61IQj3vAh3Y80-33" value="MySql热备" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=24;fontColor=#FFFFFF;strokeColor=default;strokeWidth=2;fillColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="-690" y="590" width="130" height="80" as="geometry" />
+          <mxGeometry x="-690" y="593" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F0fI_rU61IQj3vAh3Y80-34" value="Redis缓存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=24;fontColor=#FFFFFF;strokeColor=default;strokeWidth=2;fillColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="-385" y="590" width="140" height="80" as="geometry" />
+          <mxGeometry x="-385" y="593" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F0fI_rU61IQj3vAh3Y80-35" value="SLS日志" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=24;fontColor=#FFFFFF;strokeColor=default;strokeWidth=2;fillColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="590" width="130" height="80" as="geometry" />
+          <mxGeometry x="-80" y="593" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F0fI_rU61IQj3vAh3Y80-37" value="消息队列" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=24;fontColor=#FFFFFF;strokeColor=default;strokeWidth=2;fillColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="-620" y="270" width="120" height="60" as="geometry" />
@@ -125,7 +125,7 @@
           <mxGeometry x="140" y="160" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F0fI_rU61IQj3vAh3Y80-42" value="OSS存储" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=24;fontColor=#FFFFFF;strokeColor=default;strokeWidth=2;fillColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="190" y="590" width="130" height="80" as="geometry" />
+          <mxGeometry x="190" y="593" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F0fI_rU61IQj3vAh3Y80-49" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=24;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-903" y="370" width="1449" height="180" as="geometry" />
