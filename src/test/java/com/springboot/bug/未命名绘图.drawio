@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T07:48:38.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="dEAp81AZl5hlBiESSB3-" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T07:56:47.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="9qV32sRjGSxYlKkAyZ7t" version="15.7.4" type="github">
   <diagram id="Ii7Qvp2UMPxbZerNqTWp" name="Page-1">
     <mxGraphModel dx="3262" dy="1514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#E6E6E6" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
             <mxPoint x="586.94" y="239.99999999999991" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F0fI_rU61IQj3vAh3Y80-2" value="安泰智慧生活架构图" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=36;fontColor=#FFFFFF;fillColor=#007FFF;shadow=1;" vertex="1" parent="1">
+        <mxCell id="F0fI_rU61IQj3vAh3Y80-2" value="安+智慧社区架构图" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=36;fontColor=#FFFFFF;fillColor=#007FFF;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-370" y="-110" width="510" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F0fI_rU61IQj3vAh3Y80-4" value="" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=36;dashed=1;strokeWidth=3;strokeColor=#009900;rounded=0;shadow=0;sketch=0;glass=0;perimeterSpacing=0;" vertex="1" parent="1">
@@ -210,6 +210,33 @@
         </mxCell>
         <mxCell id="F0fI_rU61IQj3vAh3Y80-82" value="物联网" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=24;fontColor=#FFFFFF;strokeColor=#BD7000;strokeWidth=2;fillColor=#f0a30a;" vertex="1" parent="1">
           <mxGeometry x="370" y="724" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F0fI_rU61IQj3vAh3Y80-83" value="DevOps" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=24;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-873" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F0fI_rU61IQj3vAh3Y80-84" value="CI/CD" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=24;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-729" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F0fI_rU61IQj3vAh3Y80-85" value="Fastlane" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=24;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-581" y="858" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F0fI_rU61IQj3vAh3Y80-86" value="代码扫描" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=24;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F0fI_rU61IQj3vAh3Y80-87" value="自动化测试" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=24;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-271" y="858" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F0fI_rU61IQj3vAh3Y80-88" value="Jenkins Pipeline" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=24;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-95" y="858" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F0fI_rU61IQj3vAh3Y80-89" value="健康探测" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=24;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="70" y="858" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F0fI_rU61IQj3vAh3Y80-90" value="Monorepo" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=24;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="307" y="860" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F0fI_rU61IQj3vAh3Y80-92" value="健康探测" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=24;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="390" y="860" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
