@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T08:56:53.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="OmJx3UoxDn-xK7ltNu3f" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T08:59:29.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="jeDyDrlTdNpu1M7clcik" version="15.7.4" type="github">
   <diagram id="Ii7Qvp2UMPxbZerNqTWp" name="Page-1">
     <mxGraphModel dx="3262" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#E6E6E6" math="0" shadow="0">
       <root>
@@ -191,7 +191,7 @@
           <mxGeometry x="380" y="474" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F0fI_rU61IQj3vAh3Y80-76" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=24;strokeWidth=2;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-917" y="820" width="1480" height="140" as="geometry" />
+          <mxGeometry x="-916" y="822" width="1480" height="140" as="geometry" />
         </mxCell>
         <mxCell id="F0fI_rU61IQj3vAh3Y80-77" value="Docker容器" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=24;fontColor=#FFFFFF;strokeColor=#BD7000;strokeWidth=2;fillColor=#f0a30a;" vertex="1" parent="1">
           <mxGeometry x="-387" y="724" width="150" height="60" as="geometry" />
@@ -242,7 +242,7 @@
           <mxGeometry x="215" y="860" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F0fI_rU61IQj3vAh3Y80-96" value="滚动、蓝绿部署" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=24;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="361" y="859" width="140" height="60" as="geometry" />
+          <mxGeometry x="390" y="861" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F0fI_rU61IQj3vAh3Y80-97" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=24;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="582" y="150" width="133" height="770" as="geometry" />
